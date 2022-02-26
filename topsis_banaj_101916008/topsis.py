@@ -119,7 +119,7 @@ def main():
     df['Rank'] = df['Topsis Score'].rank(method='max', ascending=False)
     df = df.astype({"Rank" : int})
     
-    df.to_csv('101916008-result.csv', index=False)
+    df.to_csv(sys.argv[4], index=False)
     
     #print("Done.")
 
