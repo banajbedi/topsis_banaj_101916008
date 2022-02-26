@@ -7,6 +7,7 @@ Type: **Package**.
 Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
 
 Version: **1.0.0**.
+<br>
 Date: **2022-02-26**.
 <br>
 Description: **Evaluation of alternatives based on multiple criteria using TOPSIS method.**.
@@ -21,7 +22,6 @@ TOPSIS chooses the alternative of shortest Euclidean distance from the ideal sol
 and greatest distance from the negative-ideal solution.
 
 <br>
-
 ## How to install this package:
 
 ```
