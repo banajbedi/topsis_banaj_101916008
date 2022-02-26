@@ -12,8 +12,8 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
-    # url="https://github.com/dpsingh287/topsis-test-101",
-    # download_url="https://github.com/dpsingh287/topsis_dilmanpreet_101903506/archive/refs/tags/v10.tar.gz",
+    url="https://github.com/banajbedi/topsis_banaj_101916008",
+    download_url="",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
