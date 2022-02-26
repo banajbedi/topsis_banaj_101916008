@@ -56,3 +56,5 @@ Information of benefit positive(+) or negative(-) impact criteria should be prov
 
 <br>
 The output file contains columns of input file along with two additional columns having **Topsis_score** and **Rank**
+
+View package at: https://pypi.org/project/topsis-banaj-101916008/1.0.0/
