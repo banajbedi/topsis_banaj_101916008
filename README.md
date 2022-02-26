@@ -6,7 +6,7 @@ Type: **Package**.
 
 Title: **TOPSIS method for multiple-criteria decision making (MCDM)**.
 
-Version: **1.0.0**.
+Version: **1.1.0**.
 <br>
 Date: **2022-02-26**.
 <br>
