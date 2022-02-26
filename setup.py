@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/banajbedi/topsis_banaj_101916008",
-    download_url="",
+    download_url="https://github.com/banajbedi/topsis_banaj_101916008/archive/refs/tags/v1.0.0.tar.gz",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
