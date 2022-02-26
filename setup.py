@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="topsis_banaj_101916008",
-    version="1.0.0",
+    version="1.1.0",
     author="Banaj Bedi",
     author_email="banaj7@gmail.com",
     description="It's a package that calcuates Topsis score and ranks accordingly",
